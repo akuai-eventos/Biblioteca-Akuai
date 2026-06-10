@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "En un mundo de grises",
+    "autor": "Sergio Carrión",
+    "descripcion": "La obra es un viaje emocional e introspectivo que explora las luces y sombras de la vida moderna, centrándose profundamente en las relaciones humanas, el amor, el desamor, y la búsqueda de la propia identidad.",
+    "imagen": "Portada1.jpg",
+    "link": "https://drive.google.com/uc?export=download&id=18X_mD4zf7U24cntRVUSegOsuV4izZisf"
+  },
+  {
+    "titulo": "Hábitos Atómicos",
+    "autor": "James Clear",
+    "descripcion": "El método comprobado para crear buenos hábitos gerenciales, romper los malos y dominar las pequeñas conductas que llevan al éxito.",
+    "imagen": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=400&q=80",
+    "link": "TU_ENLACE_DE_DRIVE_AQUI"
+  },
+  {
+    "titulo": "Liderazgo de Nivel 5",
+    "autor": "Jim Collins",
+    "descripcion": "Descubre las características exactas que separan a las empresas simplemente buenas de las organizaciones verdaderamente grandiosas.",
+    "imagen": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?auto=format&fit=crop&w=400&q=80",
+    "link": "TU_ENLACE_DE_DRIVE_AQUI"
+  },
+  {
+    "titulo": "Pensar Rápido, Pensar Despacio",
+    "autor": "Daniel Kahneman",
+    "descripcion": "Una exploración profunda sobre cómo tomamos decisiones en los negocios y cómo los gerentes pueden evitar los sesgos cognitivos.",
+    "imagen": "https://images.unsplash.com/photo-1588580000645-4562a6d2c839?auto=format&fit=crop&w=400&q=80",
+    "link": "TU_ENLACE_DE_DRIVE_AQUI"
+  },
+  {
+    "titulo": "Mide lo que Importa",
+    "autor": "John Doerr",
+    "descripcion": "El sistema de Objetivos y Resultados Clave (OKRs) utilizado por las empresas más innovadoras del mundo para alcanzar la excelencia.",
+    "imagen": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=400&q=80",
+    "link": "TU_ENLACE_DE_DRIVE_AQUI"
+  }
+]
